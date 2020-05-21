@@ -1,6 +1,10 @@
 # STM32F429_RGB_CONTROL
 
-RGB led control with simple GPIO stucture in stm32f429ZI board
+RGB led control with simple GPIO stucture in stm32f429ZI board using buttons and RGB led.
+
+In order to be able to compile successfully Keil::ARM-Compiler 1.8.0 has to be installed , not the latest version
+
+
 
 
  # BLUE
